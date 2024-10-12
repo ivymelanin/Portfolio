@@ -273,6 +273,7 @@ section{
     align-items: center;
     background-color: var(--main-color);
     height: 500px;
+    width: 100px;
     border-radius: 4rem;
     cursor: pointer;
     border: 5px solid transparent;
