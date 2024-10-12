@@ -63,7 +63,7 @@ span{
 }
 
 .navBar a{
-    font-size: 1.8rem;
+    font-size: 1rem;
     color: var(--text-color);
     margin-left: 4rem;
     font-weight: 500;
