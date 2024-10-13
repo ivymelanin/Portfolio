@@ -481,6 +481,9 @@ section{
         margin: 3rem 0;
         color: white;
     }
+    .gradient-btn{
+        display: none;
+    }
     .home{
         flex-direction: column-reverse;
         margin: 5rem 4rem;

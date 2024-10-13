@@ -1,5 +1,10 @@
 let menuIcon = document.querySelector("#menu-icon");
 let navbar = document.querySelector(".navBar");
+
+menuIcon.onclick = () => {
+    menuIcon.classList.toggle("bx-x");
+    navbar.classList.toggle("active");
+}
 let sections = document.querySelector("section");
 let navLinks = document.querySelector("header nav a");
 
