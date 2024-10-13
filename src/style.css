@@ -208,11 +208,12 @@ section{
 }
 
 .about-img img{
+    position: relative;
     width: 32vw;
     border-radius: 50%;
     box-shadow: 0 0 25px var(--main-color);
     transition: 0.4s ease-in-out;
-
+    top: 1rem;
 }
 
 .about-img img:hover{
