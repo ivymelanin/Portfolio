@@ -332,6 +332,7 @@ section{
     background-color: var(--bg-color);
     border: 2px solid var(--main-color);
     border-radius: 4rem;
+    color: var(--main-color);
     gap: 2rem;
     padding: 5rem 2rem;
     overflow: hidden;
