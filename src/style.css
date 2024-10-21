@@ -152,7 +152,7 @@ section{
     background: transparent;
     border: 2px solid var(--main-color);
     border-radius: 50%;
-    color: var(--main-color);
+    color: var(--text-color);
     margin: 3rem o.5rem;
     transition: 0.4s ease-in-out;
     box-shadow: 3px 3px 6px 0px inset, -3px -3px 6px 1px inset var(--main-color);
