@@ -160,7 +160,8 @@ section{
 .social-icons a:hover{
     color: var(--text-color);
     transform: scale(1.2) translateY(-5px);
-    box-shadow: 0 0 25px var(--main-color);
+    box-shadow: 3px 3px 6px 0px inset, -3px -3px 6px 1px inset var(--main-color);
+    
 }
 
 .btn-group{
